@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pjsol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pjsol\\.nuget\\packages"
+    ]
+  }
+}

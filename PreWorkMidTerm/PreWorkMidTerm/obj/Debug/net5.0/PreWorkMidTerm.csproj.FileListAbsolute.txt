@@ -1,0 +1,16 @@
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.csproj.AssemblyReference.cache
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.AssemblyInfoInputs.cache
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.AssemblyInfo.cs
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.csproj.CoreCompileInputs.cache
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\PreWorkMidTerm.exe
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\PreWorkMidTerm.deps.json
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\PreWorkMidTerm.runtimeconfig.json
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\PreWorkMidTerm.runtimeconfig.dev.json
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\PreWorkMidTerm.dll
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\ref\PreWorkMidTerm.dll
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\bin\Debug\net5.0\PreWorkMidTerm.pdb
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.dll
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\ref\PreWorkMidTerm.dll
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.pdb
+C:\Users\pjsol\source\repos\PreWorkMidTerm\PreWorkMidTerm\obj\Debug\net5.0\PreWorkMidTerm.genruntimeconfig.cache
